@@ -1,2 +1,3 @@
 # App-Grupos
-App para gerenciar grupos sociais podendo incluir e excluir usuários do grupo
+
+App em React Native para gerenciar grupos sociais podendo incluir e excluir usuários do grupo
